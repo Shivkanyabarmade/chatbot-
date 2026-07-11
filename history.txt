@@ -1,0 +1,32 @@
+# This file stores saved conversation history.
+# It is automatically appended to each time you exit the chatbot ('exit', 'quit', or 'bye').
+# Feel free to delete its contents any time — it will be recreated on the next run.
+
+----- Session started: 2026-07-06 15:05:08 -----
+[15:03:06] You: hii
+[15:03:06] Bot: Hi there! 😊 Ready to talk about careers, code, or interviews?
+[15:03:11] You: how are you
+[15:03:11] Bot: 🤔 I don't have a specific rule for that yet. Try asking about a career role, programming language, interview type, resume tips, or type 'menu' to see topics I know.
+[15:03:24] You: what html
+[15:03:24] Bot: 🤔 I don't have a specific rule for that yet. Try asking about a career role, programming language, interview type, resume tips, or type 'menu' to see topics I know.
+[15:03:32] You: pyhon
+[15:03:32] Bot: 🤔 I don't have a specific rule for that yet. Try asking about a career role, programming language, interview type, resume tips, or type 'menu' to see topics I know.
+[15:03:40] You: helo
+[15:03:40] Bot: 🤔 I don't have a specific rule for that yet. Try asking about a career role, programming language, interview type, resume tips, or type 'menu' to see topics I know.
+[15:03:44] You: hello
+[15:03:44] Bot: Hello! 👋 I'm your Smart Career Assistant. How can I help your career journey today?
+[15:04:01] You: resume
+[15:04:01] Bot: Keep your resume to 1 page, use action verbs, quantify achievements, and tailor it to each job description. Avoid generic objective statements.
+[15:04:07] You: python
+[15:04:07] Bot: Python is beginner-friendly and versatile — great for AI, web dev, automation, and data science. Master syntax, OOP, and libraries like pandas/numpy.
+[15:04:11] You: java
+[15:04:11] Bot: Java is widely used in enterprise systems and Android apps. Focus on OOP concepts, collections framework, and Spring Boot for backend roles.
+[15:04:17] You: c
+[15:04:17] Bot: 🤔 I don't have a specific rule for that yet. Try asking about a career role, programming language, interview type, resume tips, or type 'menu' to see topics I know.
+[15:04:22] You: c++
+[15:04:22] Bot: C++ gives you fine control over memory and performance — ideal for competitive programming, game dev, and systems programming. Master pointers and STL.
+[15:04:27] You: javascript
+[15:04:27] Bot: JavaScript powers the web. Learn the fundamentals, then explore frameworks like React (frontend) and Node.js (backend) for full-stack development.
+[15:05:06] You: exit
+[15:05:06] Bot: Goodbye! 👋 Wishing you success in your career journey. Come back anytime!
+----- Session ended: 2026-07-06 15:05:08 -----

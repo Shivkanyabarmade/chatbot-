@@ -1,0 +1,13 @@
+# Smart Career Assistant - Requirements
+#
+# This project intentionally uses ONLY the Python standard library
+# (os, sys, time, datetime) — no external packages are required.
+#
+# If you extend this project later (e.g., NLP or ML upgrade — see
+# README.md "Future Scope"), your future dependencies would go here,
+# for example:
+#
+# nltk
+# scikit-learn
+# transformers
+# flask
